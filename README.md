@@ -1,2 +1,2 @@
 # Circuit-Simulator
-A python basec circuit simulator
+A python based circuit simulator
